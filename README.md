@@ -11,5 +11,5 @@ it's similar enough to [Vim](https://www.vim.org) and [Nano](https://www.nano-ed
 be too hard to learn if you know either of those.
 
 ## How?
-Context is designed in C#, and aims to not have **ANY**𑁋and I mean _**ANY**_𑁋dependencies<br>
+Context is designed in [C#](https://docs.microsoft.com/en-us/dotnet/csharp), and aims to not have **ANY**𑁋and I mean _**ANY**_𑁋dependencies<br>
 at all. It only uses the plain Windows API.
